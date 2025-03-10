@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ObjectOriantdProgramming", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JanuaryFirstWeek", "JanuaryFirstWeek\JanuaryFirstWeek.csproj", "{C6276279-8AA8-4B75-BEA2-9A381006EA9F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JanuarySecondWeek", "JanuarySecondWeek\JanuarySecondWeek.csproj", "{FD25B938-34EE-473D-A107-902E7ED2F3B5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{C6276279-8AA8-4B75-BEA2-9A381006EA9F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C6276279-8AA8-4B75-BEA2-9A381006EA9F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C6276279-8AA8-4B75-BEA2-9A381006EA9F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FD25B938-34EE-473D-A107-902E7ED2F3B5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FD25B938-34EE-473D-A107-902E7ED2F3B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FD25B938-34EE-473D-A107-902E7ED2F3B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FD25B938-34EE-473D-A107-902E7ED2F3B5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
