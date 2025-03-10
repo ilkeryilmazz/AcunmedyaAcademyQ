@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LoopsAndFunctions", "LoopsA
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ObjectOriantdProgramming", "ObjectOriantdProgramming\ObjectOriantdProgramming.csproj", "{EFEAB23A-9F51-413B-AD33-FE9DD6216288}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JanuaryFirstWeek", "JanuaryFirstWeek\JanuaryFirstWeek.csproj", "{C6276279-8AA8-4B75-BEA2-9A381006EA9F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{EFEAB23A-9F51-413B-AD33-FE9DD6216288}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EFEAB23A-9F51-413B-AD33-FE9DD6216288}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EFEAB23A-9F51-413B-AD33-FE9DD6216288}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C6276279-8AA8-4B75-BEA2-9A381006EA9F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C6276279-8AA8-4B75-BEA2-9A381006EA9F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C6276279-8AA8-4B75-BEA2-9A381006EA9F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C6276279-8AA8-4B75-BEA2-9A381006EA9F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
