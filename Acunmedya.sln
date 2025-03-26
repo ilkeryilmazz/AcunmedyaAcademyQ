@@ -29,6 +29,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Core", "MarchFirstWeek\Core
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Presentation", "MarchFirstWeek\Presentation\Presentation.csproj", "{D0E3703D-B8B3-4458-9DDC-FB4072D89888}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "MarchSecondWeek", "MarchSecondWeek", "{82239B32-0D7C-405B-BD14-4186D11A3D29}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "MarchThirdWeek", "MarchThirdWeek", "{91203EE0-19B4-493E-B08F-B90E56B29FF5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
