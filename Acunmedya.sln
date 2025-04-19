@@ -39,6 +39,10 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "MarchThirdWeek", "MarchThir
 		MarchThirdWeek\MarchThirdWeek.sql = MarchThirdWeek\MarchThirdWeek.sql
 	EndProjectSection
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "AprilSecondWeek", "AprilSecondWeek", "{8E228035-D2A8-4CF2-A611-455CEC83611A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Presentation", "AprilSecondWeek\Presentation\Presentation.csproj", "{83CB74AA-AB62-4690-83EA-70B15353CF22}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -93,6 +97,10 @@ Global
 		{D0E3703D-B8B3-4458-9DDC-FB4072D89888}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D0E3703D-B8B3-4458-9DDC-FB4072D89888}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D0E3703D-B8B3-4458-9DDC-FB4072D89888}.Release|Any CPU.Build.0 = Release|Any CPU
+		{83CB74AA-AB62-4690-83EA-70B15353CF22}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{83CB74AA-AB62-4690-83EA-70B15353CF22}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{83CB74AA-AB62-4690-83EA-70B15353CF22}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{83CB74AA-AB62-4690-83EA-70B15353CF22}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -103,6 +111,7 @@ Global
 		{FA0111B3-30E9-4EFD-AB05-EC645E80406A} = {02EA681E-C7D8-13C7-8484-4AC65E1B71E8}
 		{DC6EFE13-ACEF-42F2-9DC6-521790A07647} = {02EA681E-C7D8-13C7-8484-4AC65E1B71E8}
 		{D0E3703D-B8B3-4458-9DDC-FB4072D89888} = {02EA681E-C7D8-13C7-8484-4AC65E1B71E8}
+		{83CB74AA-AB62-4690-83EA-70B15353CF22} = {8E228035-D2A8-4CF2-A611-455CEC83611A}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {64BE689A-C87A-497F-B3E4-AE3E0FA18693}
